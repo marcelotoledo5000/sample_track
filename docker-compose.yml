@@ -2,7 +2,7 @@ version: '3.6'
 
 services:
   server:
-    image: skygvinn/debian-sinatra-nodejs:v1.0
+    image: skygvinn/debian-ruby2.6-nodejs:v1.0
     container_name: sample_tracking
     ports:
       - "4567:4567"

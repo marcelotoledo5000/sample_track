@@ -19,3 +19,8 @@ script/server
 ```
 
 To see the application in action, open a browser window and navigate to [http://localhost:4567/](http://localhost:4567.)
+
+## About this project
+
+Used template HTML from html5up.net | @ajlkn
+Template: Dimension by HTML5 UP

@@ -1,8 +1,8 @@
-# TO USE: skygvinn/debian-sinatra-nodejs:v1.0
+# TO USE: skygvinn/debian-ruby2.6-nodejs:v1.0
 
 FROM ruby:2.6.0
 
-LABEL name="Debian-Sinatra-NodeJS" \
+LABEL name="Debian-Ruby-2.6-NodeJS" \
   version="1.0"
 
 RUN apt-get update -y && \
@@ -13,5 +13,3 @@ RUN apt-get update -y && \
   apt-get install apt-utils nodejs -y && \
   gem cleanup && \
   apt-get clean
-
-EXPOSE 4567
