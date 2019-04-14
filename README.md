@@ -23,4 +23,5 @@ To see the application in action, open a browser window and navigate to [http://
 ## About this project
 
 Used template HTML from html5up.net | @ajlkn
-Template: Dimension by HTML5 UP
+
+- Template: Dimension by HTML5 UP
