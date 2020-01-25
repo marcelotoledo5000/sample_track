@@ -8,10 +8,12 @@ It is just a simple website, that running in Sinatra application and consists of
 
 ## Technical Informations and dependencies
 
-- Docker            - version 18.09.4
-- Docker Compose    - version 1.24.0
-- The Ruby language - version 2.6.0
-- Sinatra           - version 2.0.5
+``` code
+- Docker            - version 19.03.5-ce
+- Docker Compose    - version 1.25.1
+- The Ruby language - version 2.7.0
+- Sinatra           - version 2.0.8
+```
 
 ## To use with Docker
 

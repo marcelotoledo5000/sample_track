@@ -4,5 +4,5 @@ echo "Installing bundler"
 gem install bundler
 
 echo "Installing gems"
-bundle install
+bundle check || bundle install
 chown -R $USER:$USER .
