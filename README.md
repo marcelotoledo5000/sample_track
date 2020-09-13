@@ -8,7 +8,7 @@ It is just a simple website, that running in Sinatra application and consists of
 
 ## Technical Informations and dependencies
 
-``` code
+```code
 - Docker            - version 19.03.5-ce
 - Docker Compose    - version 1.25.1
 - The Ruby language - version 2.7.0
@@ -19,7 +19,7 @@ It is just a simple website, that running in Sinatra application and consists of
 
 Clone the project and prepare to use:
 
-``` Shell
+```Shell
 git clone git@github.com:marcelotoledo5000/sample_tracking.git
 cd sample_tracking
 script/setup
@@ -29,15 +29,15 @@ script/setup
 
 To check that application runs properly by entering the command:
 
-``` Shell
+```Shell
 script/server
 ```
 
-To see the application in action, open a browser window and navigate to [http://localhost:4567](http://localhost:4567).
+To see the application in action, open a browser window and navigate to <http://localhost:4567>.
 
 #### Template Credits
 
 Used template HTML from html5up.net | @ajlkn
 
-- Template: Dimension by HTML5 UP
-- [Credits.txt](Credits.txt)
+-   Template: Dimension by HTML5 UP
+-   [Credits.txt](Credits.txt)
